@@ -1,2 +1,15 @@
-install.packages("tidyverse")
-install.packages("ggplot2")
+install.packages(c(
+  "tidyverse", 
+  "scales",
+  "ggthemes",
+  "ggrepel",
+  "ggridges",
+  "patchwork",
+  "gganimate",
+  "ggpubr",
+  "ggmap",
+  "ggExtra",
+  "cowplot",
+  "ggforce",
+  "ggsignif"
+))
