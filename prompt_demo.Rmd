@@ -1,0 +1,8 @@
+# load data
+# Read the csv files into R dataframes
+land_temp_country_df <- read_csv("data/GlobalLandTemperaturesByCountry.csv")
+land_temp_city_df <- read_csv("data/GlobalLandTemperaturesByMajorCity.csv")
+global_temp_df <- read_csv("data/GlobalTemperatures.csv")
+nyc_squirrels_df <- read_csv("data/nyc_squirrels.csv")
+pokemon_df <- read_csv("data/pokemon.csv")
+
