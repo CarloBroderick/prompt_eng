@@ -11,5 +11,6 @@ install.packages(c(
   "ggExtra",
   "cowplot",
   "ggforce",
-  "ggsignif"
+  "ggsignif",
+  "stringr"
 ))
