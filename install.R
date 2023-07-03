@@ -1,16 +1,3 @@
 install.packages(c(
-  "tidyverse", 
-  "scales",
-  "ggthemes",
-  "ggrepel",
-  "ggridges",
-  "patchwork",
-  "gganimate",
-  "ggpubr",
-  "ggmap",
-  "ggExtra",
-  "cowplot",
-  "ggforce",
-  "ggsignif",
-  "stringr"
+  "tidyverse"
 ))
