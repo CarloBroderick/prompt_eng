@@ -1,3 +1,1 @@
-install.packages(c(
-  "tidyverse"
-))
+install.packages("ggplot2")
